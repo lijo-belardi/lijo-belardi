@@ -7,7 +7,6 @@ Frontend Developer
 * 🌍  I'm based in Vigevano (PV), Lombardy, Italy
 * 🖥️  See my portfolio at [lijo-belardi](http://lijo-belardi.github.io/)
 * ✉️  You can contact me at [lijo.belardi@icloud.com](mailto:lijo.belardi@icloud.com)
-* 🧠  I'm learning React
 
 ------------------
 ### Skills
@@ -25,6 +24,7 @@ Frontend Developer
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 ------------------
 ### Socials
