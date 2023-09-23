@@ -1,7 +1,7 @@
 Hi 👋 My name is Lijo
 =====================
 
-Frontend Developer
+QA Automation Engineer
 ------------------
 
 * 🌍  I'm based in Vigevano (PV), Lombardy, Italy
